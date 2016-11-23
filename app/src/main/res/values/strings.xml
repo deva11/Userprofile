@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">userpro</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="aoi">aoi</string>
+	<string-array name ="aoi">
+		<item> eCommerce </item>
+		<item> IT </item>
+		<item> Telecom </item>
+		
+</string-array>
+
+</resources>
